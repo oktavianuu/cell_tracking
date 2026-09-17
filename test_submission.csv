@@ -1,0 +1,7 @@
+id,dataset,row_type,node_id,t,z,y,x,source_id,target_id
+0,seq_01_test,node,0,0,2,5,5,-1,-1
+1,seq_01_test,node,1,0,8,15,15,-1,-1
+2,seq_01_test,node,2,1,2,6,6,-1,-1
+3,seq_01_test,node,3,1,8,16,15,-1,-1
+4,seq_01_test,edge,-1,-1,-1,-1,-1,0,2
+5,seq_01_test,edge,-1,-1,-1,-1,-1,1,3
